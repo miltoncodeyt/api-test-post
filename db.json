@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "🎈 Neque porro quisquam est qui dolorem",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et felis id mi vehicula interdum. Curabitur dapibus sit amet mauris non pellentesque"
+    },
+    {
+      "id": 2,
+      "title": "🎇 Lorem Ipsum",
+      "summary": "Aliquam non tellus eu velit porta euismod. Morbi malesuada nisl non enim vehicula, ut tristique nulla ullamcorper. Vestibulum viverra id massa in scelerisque. Aenean non euismod urna. Mauris lobortis in risus sit amet ultrices. Donec erat lectus, auctor eu molestie eu, semper vitae ipsum. Donec tincidunt rhoncus sem quis egestas. Integer nec erat in nibh accumsan congue. Ut sit amet ante gravida odio mattis sagittis."
+    },
+    {
+      "id": 3,
+      "title": "🎀 Quisque libero nulla, consequat vel velit porttitor",
+      "summary": "Sed fringilla blandit nisi, tincidunt tincidunt libero scelerisque non. In hac habitasse platea dictumst. Aliquam efficitur semper nisl, congue pellentesque turpis pharetra nec. Aenean odio sem, ultricies eu sem nec, luctus cursus est."
+    }
+  ]
+}
